@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace HowzeErica_FiveStarRating
 {
-    class Starscs
+    class Stars
     {
+
+
     }
 }

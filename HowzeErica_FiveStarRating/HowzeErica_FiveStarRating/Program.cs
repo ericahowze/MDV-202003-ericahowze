@@ -10,6 +10,10 @@ namespace HowzeErica_FiveStarRating
     {
         static void Main(string[] args)
         {
+
+            //prompt user for choice
+            Console.WriteLine("");
+
         }
     }
 }
