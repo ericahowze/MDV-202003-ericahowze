@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EricaHowze_ce09
+namespace HowzeErica_FiveStarRating
 {
     class Validation
     {
