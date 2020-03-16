@@ -40,7 +40,7 @@ namespace HowzeErica_FiveStarRating
                         {
 
                         }
-                        break;
+                        break; 
                     case "3":
                     case "show bars":
                         {

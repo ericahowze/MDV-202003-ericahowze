@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HowzeErica_FiveStarRating
+namespace HowzeErica_TimeTrackerApp
 {
-    class Stars
+    class Program
     {
-
-
-
+        static void Main(string[] args)
+        {
+        }
     }
 }
